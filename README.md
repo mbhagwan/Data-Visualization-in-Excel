@@ -1,8 +1,8 @@
-Course 2: Data Visualization in Excel<br>
+**Course 2:** Data Visualization in Excel<br>
 Coursera | Macquarie University<br>
 Excel version: Microsoft Excel 2019 (Office 365)<br>
 
-Course contents:
+**Course contents:**
 
 Week | Content
 :----|:-------
