@@ -3,9 +3,9 @@
 **Course 2:** Data Visualization in Excel<br>
 Coursera | Macquarie University<br>
 
-**Course contents:**
+**Course syllabus:**
 
-Week | Content
+Week | Syllabus
 :----|:-------
 1 | Data Visualizations using Conditional Formatting, Sparklines and Number Formats
 2 | Mastering charting techniques
