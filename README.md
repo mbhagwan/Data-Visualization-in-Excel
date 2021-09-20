@@ -1,3 +1,5 @@
+# Excel Skills for Data Analytics and Visualization Specialization
+
 **Course 2:** Data Visualization in Excel<br>
 Coursera | Macquarie University<br>
 
